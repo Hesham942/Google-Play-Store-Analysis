@@ -26,7 +26,7 @@ The analysis was conducted on a comprehensive dataset sourced from the Google Pl
 
 ## Sample Data
 
-A sample of the analyzed data has been provided for reference. For access to the complete dataset and detailed analysis, please refer to the [original dataset](https://www.kaggle.com/code/umarmehmood/google-play-store-analysis).
+A sample of the analyzed data has been provided for reference. For access to the complete dataset and detailed analysis, please refer to the [original dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps).
 
 ## Conclusion
 
